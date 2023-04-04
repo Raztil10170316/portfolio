@@ -1,0 +1,143 @@
+
+body{
+    background-image:url(../img/hello.jpg);
+    background-size: cover;
+    min-height: 100vh;
+}
+    .home{
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.raz{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 5px solid rgb(248, 4, 4);
+    position:relative;
+    top:50px;
+}
+.name{
+font-size: 80px;
+position: absolute;
+color:#222;
+letter-spacing: 5px;
+cursor: pointer;
+top: 150px;
+left: 250px;
+    text-shadow: 0 0 10px #f30707,
+                 0 0 20px #f3ecec,
+                 0 0 40px #e9e1e1,
+                
+                
+}
+.name:hover{
+    color:#fa0404;
+    text-shadow: 0 0 10px #f7f2f2,
+                 0 0 50px #f3ecec,
+                 0 0 100px #f8f3f3,
+                 0 0 200px #f8f4f4;
+                 transition: 1s;
+                
+}
+
+.name a{
+    color: #fa0606;
+}
+.data{
+    color: rgb(253, 6, 6);
+    position: absolute;
+    left: 300px;
+    top: 450px;
+}
+.ach{
+    position: absolute;
+    color:white;
+    font-size: 40px;
+    left:100px;
+    top:150px;
+    border-radius: 20px;    
+    padding: 15px 20px;
+    border:5px solid rgb(250, 1, 13);
+    margin: 200px;
+    text-shadow: 0 0 10px #f7f2f2,
+                 0 0 50px #f3ecec,
+                 0 0 100px #f8f3f3,
+    
+}
+.ach:hover{
+    color: red;
+    text-shadow: 0 0 10px #f7f2f2,
+                 0 0 50px #f3ecec,
+                 0 0 100px #da0505,
+                 0 0 150px rgb(179, 35, 35);
+}
+
+.sample{
+    color: white;
+    position: absolute;
+    left: 700px;
+    font-size: 40px;
+    border-radius: 20px;    
+    padding: 15px 20px;
+    border:5px solid rgb(250, 1, 13);
+    margin: 200px;
+    top:150px;
+
+}
+.sample:hover{
+    color: red;
+    text-shadow: 0 0 10px #f7f2f2,
+                 0 0 50px #f3ecec,
+                 0 0 100px #da0505,
+                 0 0 150px rgb(179, 35, 35);
+}
+.michael1 {
+    height: 350px;
+    width: 450px;
+    border-radius: 20px;
+    border: 2px solid rgb(248, 4, 4);
+    position:absolute;
+    top:450px;
+    left: 815px;
+}
+.michael1:hover{
+    color:#fa0404;
+    box-shadow: 0 0 10px #f7f2f2,
+                 0 0 50px #f3ecec,
+                 0 0 100px #f8f3f3,
+                 0 0 200px #f00404;
+                 transition: 1s;
+}
+.rastil{
+    font-size: 40px;
+    position: absolute;
+    top:35px;
+    color:black;
+    left: 30px;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.rastil:hover{
+    color:red;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}

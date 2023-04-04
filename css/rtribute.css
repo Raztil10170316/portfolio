@@ -1,0 +1,372 @@
+body{
+    background-image:url(../img/hello.jpg);
+    min-height: 100vh;
+}
+.home{
+    
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+
+.related{
+    font-size: 50px;
+    color:rgb(7, 7, 7);
+    text-shadow: 0 0 10px #f7f2f2,
+        0 0 20px #f3ecec,
+        0 0 40px #fcf9f9;
+    }
+.about{
+font-size: 50px;
+color:rgb(7, 7, 7);
+text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #fcf9f9;
+    
+}
+
+.verse{
+    color:white;
+}
+.verse:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+
+}
+.verse1{
+    color: white;
+}
+.verse1:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse2{
+    color: white;
+}
+.verse2:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse3{
+    color: white;
+}
+.verse3:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse4{
+    color: white;
+}
+.verse4:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse5{
+    color: white;
+}
+.verse5:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse6{
+    color: white;
+}
+.verse6:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.verse7{
+    color: white;
+}
+.verse7:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+    .read{
+    height: 400px;
+    width: 600px;
+   border-radius: 20px;
+   box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+.read1{
+    height: 400px;
+    width: 600px;
+   border-radius: 20px;
+   box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+    position: absolute;
+    left: 700px;
+}
+.read:hover{
+    color:black;
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+
+}
+.noah{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.noah:hover{
+    color:black;
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+.noah1{
+    color: white;
+}
+.noah1:hover{
+    color: black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+
+.moses1{
+    color: white;
+}
+.moses1:hover{
+   color:black;
+   text-shadow: 0 0 10px#f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.moses{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.moses:hover{
+    color: rgb(8, 8, 8);
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+
+.daniel{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.daniel:hover{
+    color: rgb(8, 8, 8);
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+.daniel1{
+    color: white;
+}
+.daniel1:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+
+.paul{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.paul:hover{
+    color: rgb(8, 8, 8);
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+.paul1{
+    color: white;
+}
+.paul1:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.bible{
+   color:white;
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.bible:hover{
+    color:black;
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+
+.bible1{
+    color:white;
+}
+.bible1:hover{
+   color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.david{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 30px #f1eded,
+    0 0 40px #fc0303,
+    0 0 50px white;
+}
+.david:hover{
+    color: rgb(8, 8, 8);
+    background-color: rgb(245, 238, 238);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #fc0303,
+    0 0 150px white;
+    transition: 1s;
+}
+.david1{
+    color: white;
+}
+.david1:hover{
+    color:black;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.rastil{
+    font-size: 40px;
+    position: absolute;
+    top:35px;
+    color:black;
+    left: 30px;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.rastil:hover{
+    color:red;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.top{
+    font-size: 40px;
+    position: absolute;
+    top:5150px;
+    color:black;
+    left: 50px;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.top:hover{
+    color:red;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
