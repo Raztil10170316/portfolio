@@ -1,0 +1,230 @@
+body{
+    background-image:url(../img/hello.jpg);
+    background-size: cover;
+    min-height: 100vh;
+}
+.home{
+    
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+
+.title{
+    text-align: center;
+    padding-left: 10px;
+    margin-top: 50px;
+    font-size: 22px;
+    background-color: rgb(27, 27, 27);
+    border-radius: 50px;
+    color: rgb(248, 52, 3);
+    
+}
+.raz-container{
+    height: 630px;
+    width: 550px;
+    background-image: linear-gradient(rgb(14, 13, 13), rgb(250, 19, 19));
+    position: absolute;
+    left: 500px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    left:20px;
+    
+}
+.raz-container h2{
+    text-align: center;
+    padding-right: 40px;
+    color:white;
+}
+.raz-container img{
+    height: 250px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 50%;
+    border: 3px solid rgb(250, 4, 4);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+
+}
+div#social {
+    position: relative;
+    left: 15%;
+    margin-top: 20px;
+    text-align: center;
+}
+.janrats i{
+    color: black;
+}
+#label {
+    position: absolute;
+    top: -50px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: rgb(243, 6, 6);
+    padding: 10px;
+    left: -14px;
+}
+
+.janrats:hover #label {
+    display: block;
+}
+.janrats{
+    position: relative;
+    background-color: rgb(250, 248, 248);
+    font-family: 'poppins' sans-serif;
+    background: white;
+    border-radius: 40px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgb(0, 0, 0, 0.1);
+    transition: all 0.3s ease-out;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+}
+.button{
+    padding: 10px;
+}
+
+.icon i{
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    height: 20px;
+    width: 30px;
+}
+.janrats.button.icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3 ease-out;
+}
+.janix-container{
+    height: 630px;
+    width: 550px;
+    background-image: linear-gradient(rgb(14, 13, 13), rgb(250, 19, 19));
+    left: 850px;
+    border-left: 6px solid rgb(255, 7, 7);
+    top:-352px;
+    left: 505px;
+  position: absolute;
+}
+.janix-container h2{
+    text-align: center;
+    padding-right: 50px;
+    color:white;
+}
+.janix-container img{
+    height: 250px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: -50px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 4, 4, 0.74);
+
+
+}
+div#media {
+    position: relative;
+    left: 20%;
+    margin-top: 20px;
+}
+
+#label {
+    position: absolute;
+    top: -50px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: rgb(252, 5, 46);
+    padding: 10px;
+    left: -14px;
+    display: none;
+}
+
+.janrats:hover #label {
+    display: block;
+}
+.janrats{
+    position: relative;
+    background-color: rgb(250, 248, 248);
+    font-family: 'poppins' sans-serif;
+    background: white;
+    border-radius: 40px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgb(0, 0, 0, 0.1);
+    transition: all 0.3s ease-out;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+}
+.button{
+    padding: 10px;
+}
+
+.icon i{
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    height: 20px;
+    width: 30px;
+}
+
+.janrats.button.icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3 ease-out;
+}
+.fonzy-container{
+    height: 630px;
+    width: 550px;
+    background-image: linear-gradient(rgb(14, 13, 13), rgb(250, 19, 19));
+    position:absolute;
+    left: 100px;
+    border-left: 6px solid rgb(252, 6, 6);
+    top: -350px;
+    left: 470px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+.fonzy-container h2{
+    text-align: center;
+    padding-right: 50px;
+    color:white;
+}
+
+
+.fonzy-container img{
+    height: 250px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: -50px;
+    border-radius: 50%;
+    border: 3px solid rgb(241, 2, 2);
+}

@@ -1,0 +1,143 @@
+body{
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.home{
+    
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.raz{
+    height: 700px;
+    width: 500px;
+    position: relative;
+    top: -30px;
+    left: -200px;
+    background-color:solid black;
+    margin-top: 80px;
+    margin-left: 250px;
+    border-radius: 50px;
+    border: 5px solid rgb(255, 3, 3);
+    
+}
+.raz img{
+    height: 250px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+                0 0 20px #f3ecec,
+                0 0 40px #fa0303,
+                0 0 80px #f1eded;
+}
+.raz h2{
+    text-align: center;
+    font-family: century;
+    font-weight: 1000;
+    color:whitesmoke;
+}
+.bio{
+    background-color:solid rgb(250, 248, 248);
+    height: 280px;
+    width: 500px;
+}
+.bio p{
+    text-align: center;
+    font-family: century;
+    font-weight: 500;
+    font-size: 15px;
+    color:rgb(248, 245, 245);
+}
+.bio li{
+    color:white;
+}
+.janix{
+    height: 700px;
+    width: 500px;
+    position: absolute;
+    background-color:solid black;
+    top: -5px;
+    left: 520px;
+    border-radius: 50px;
+    border: 5px solid rgb(255, 5, 5);
+}
+.janix img{
+    height: 230px;
+    width: 230px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 3, 3);
+}
+.janix h2{
+    text-align: center;
+    font-family: century;
+    font-weight: 1000;
+}
+.bio-1{
+    background-color: solid rgb(250, 247, 247);
+    height: 280px;
+    width: 500px;
+}
+.bio-1 p{
+    text-align: center;
+    font-family: century;
+    font-weight: 500;
+    font-size: 15px;
+    color:rgb(250, 248, 248);
+}
+.bio-1 li{
+color:white;
+}
+
+.fonzy{
+    height: 700px;
+    width: 500px;
+    position: relative;
+   top:-700px;
+   left:220px;
+    background-color:solid rgb(243, 6, 6);
+    margin-top: 80px;
+    margin-left: 300px;
+    border-radius: 50px;
+    border: 5px solid rgb(255, 3, 3);
+}
+.fonzy img{
+    height: 240px;
+    width: 240px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 3, 3);
+}
+.fonzy h2{
+    text-align: center;
+    font-family: century;
+    font-weight: 1000;
+    color:rgb(240, 230, 230);
+}
+.fonzy li {
+    color:white;
+}
+.fonzy p{
+color: white;
+}

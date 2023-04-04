@@ -1,0 +1,141 @@
+body{
+    background-image:url(../img/hello.jpg);
+    background-size: cover;
+    min-height: 100vh;
+}
+    .home{
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.rastil{
+    font-size: 40px;
+    position: absolute;
+    top:35px;
+    color:rgb(10, 10, 10);
+    left: 40px;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.rastil:hover{
+    color:red;
+    text-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.image{
+    color: white;
+    position:relative;
+    height: 250px;
+    width: 250px;
+    border-radius: 20%;
+    border: 2px solid rgb(248, 4, 4);
+    position:relative;
+    top:5px;
+    left: 700px;
+}
+.jan{
+    color:green;
+    font-size: 50px;
+    position: absolute;
+    left: 650px;
+    top: 320px;
+}
+.jan4{
+    color: green;
+    font-size:20px;
+    position: relative;
+    left: 700px;
+    top:30px;
+}
+.object{
+    color: red;
+    position: relative;
+    left: 750px;
+
+}
+.jan1{
+    color: blue;
+    font-size: 25px;
+    position: relative;
+    left:20px;
+}
+.personal{
+    color: red;
+    position: relative;
+    left: 720px
+}
+.personal1{
+    color: rgb(1, 1, 207);
+}
+.educ{
+    color: red;
+    position: relative;
+    left: 550px;
+
+}
+.prim{
+    color: blue;
+    position: relative;
+    left:500px;
+}
+.ad{
+    color: blue;
+    position: relative;
+    left:300px; 
+}
+.num{
+    color:blue;
+    position: relative;
+    left:900px;
+    top: -90px  
+}
+.second{
+    color: blue;
+    position: relative;
+    left:500px;
+}
+.ad1{
+    color: blue;
+    position: relative;
+    left:300px; 
+}
+.num2{
+    color:blue;
+    position: relative;
+    left:900px;
+    top: -90px
+}
+.third{
+    color: blue;
+    position: relative;
+    left:500px;
+}
+.ad2{
+    color:blue;
+    position: relative;
+    left:300px; 
+}
+.num3{
+    color:blue;
+    position: relative;
+    left:900px;
+    top: -90px
+}
