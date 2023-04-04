@@ -1,0 +1,65 @@
+body{
+    background-image:url(../img/hello.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.home{
+    
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 80px;
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+.home:hover{
+    color:black;
+    background-color: rgb(248, 3, 3);
+    box-shadow: 0 0 10px #f7f2f2,
+    0 0 20px #f3ecec,
+    0 0 40px #f1eded,
+    0 0 80px #f1eded;
+}
+.welcome{
+    color:white;
+    position:absolute;
+    top:300px;
+left:250px;
+font-size: 6em;
+font-weight: 500px;
+color:#222;
+letter-spacing: 5px;
+cursor: pointer;
+
+}
+
+.welcome span{
+    transition: 0.5s;
+}
+
+.welcome:hover span:nth-child(1){
+    margin-left: 10px;
+}
+
+.welcome:hover span:nth-child(2){
+    margin-right:40px;
+}
+
+.welcome:hover span{
+    color:#f70909;
+    text-shadow: 0 0 10px #f7f2f2,
+                 0 0 20px #f3ecec,
+                 0 0 40px #f1eded,
+                 0 0 80px #f1eded;
+                
+}
+*{
+    margin:0;
+    padding: 0;
+   box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+}
